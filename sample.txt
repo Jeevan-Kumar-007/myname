@@ -1,2 +1,2 @@
 echo"hi"
-attendance is important 
+attendance is important .
